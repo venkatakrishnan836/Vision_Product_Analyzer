@@ -115,7 +115,7 @@ def process_images_from_folder(folder_path):
     return combine_similar_products(brand_product_counts)
 
 # Specify the folder path containing the images
-folder_path = "Folder Path
+folder_path = "Folder Path"
 
 brand_product_counts = process_images_from_folder(folder_path)
 
